@@ -1,3 +1,6 @@
+![Platform](https://img.shields.io/badge/platform-Windows%2011%20%7C%2010-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+---
 # 🟢 Converter Pro (SVG to PNG/ICO)
 
 ![Anteprima Applicazione](assets/preview.png)
